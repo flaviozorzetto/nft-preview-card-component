@@ -17,7 +17,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
+- Solution URL: [https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-2K7FgOkPB)
 - Live Site URL: [https://flaviozorzetto.github.io/nft-preview-card-component/](https://flaviozorzetto.github.io/nft-preview-card-component/)
 
 ## My process
@@ -30,7 +30,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Author
 
-- Website - [Flavio Esrenko Zorzetto](https://flaviozorzetto.github.io/nft-preview-card-component/)
 - Frontend Mentor - [@flaviozorzetto](https://www.frontendmentor.io/profile/flaviozorzetto)
 
 ## Acknowledgments
