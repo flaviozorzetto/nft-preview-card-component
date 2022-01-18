@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Outfit:wght@300;400;600&display=swap');
+
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(217, 54%, 11%);
+}
+
+main {
+    display: flex;
+    height: 100vh;
+}
+
+.container {
+    position: relative;
+    width: 300px;
+    margin: auto;
+    background-color: hsl(216, 50%, 16%);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.equilibrium-title {
+    font-size: 20px;
+    font-weight: 400;
+    color: hsl(0, 0%, 100%);
+}
+
+p {
+    font-weight: 300;
+    color: hsl(215, 51%, 70%);
+    font-size: 18px;
+}
+
+.ETH-text {
+    color: hsl(178, 100%, 50%);
+    padding-left: 10px;
+}
+
+.days-left-text {
+    padding-left: 8px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    background-color: hsl(215, 32%, 27%);
+}
+
+.flex-start {
+    justify-content: flex-start;
+}
+
+.white-text {
+    color: white;
+}
+
+.avatar {
+    width: 29px;
+    height: 29px;
+    border: 1px white solid;
+    border-radius: 9999999px;
+}
+
+.creation-text {
+    padding-left: 14px;
+}
+
+.img-wrapper {
+    position: relative;
+    background-image: url(images/image-equilibrium.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 312px;
+    border-radius: 10px;
+    transition: 0.5s all;
+}
+
+.icon-view {
+    position: absolute;
+    background-image: url(images/icon-view.svg);
+    background-repeat: no-repeat;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50px;
+    height: 50px;
+    z-index: -1;
+}
+
+.img-wrapper:hover {
+    box-shadow: inset 0 0 0 1000px hsla(178, 100%, 50%, 0.582);
+    z-index: 0;
+}
+
